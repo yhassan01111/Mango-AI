@@ -35,9 +35,16 @@ cd "Mango-AI/V1/MANGO AI V1"
 ```
 
 ### 2. Add langchain-groq
-``` uv add langchain-groq ```
-
+Copy this command ``` uv add langchain-groq ``` in your cloned repository, using windows powershell.
 
 ### 3. Add your api key
 Head to https://console.groq.com/keys 
-Get an API-key then paste it in the place it was assigned for in the ```.env``` file
+Get an API-key then paste it in the place it was assigned for in the ```.env``` file.
+
+### 4. Running the program
+run ```uv run main.py``` then the app should run perfectly!
+
+### 🛠️ Help and support
+
+🥭Mango AI (V1) — Bug Report & Support Form : https://forms.gle/DrKsJn4uBDbs8Grp6
+``` A tutorial Youtube Video will soon be provided!```
