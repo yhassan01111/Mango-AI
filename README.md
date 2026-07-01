@@ -1,0 +1,34 @@
+# 🥭 Mango AI (V1) — Lightweight Terminal AI Assistant
+
+A fast, interactive, and terminal-based AI assistant built to handle fluid conversations without the bulk of a heavy web interface. Mango AI leverages advanced LLM orchestration and high-speed inference to bring a smart, context-aware AI companion straight into your command line.
+
+Instead of running stateless API calls that forget context after every prompt, Mango AI features persistent local memory tracking and input validation architecture to ensure execution never crashes over typos or unexpected inputs.
+
+---
+
+## 🚀 Key Features & Engineering Mechanics
+
+*   **High-Speed Inference Architecture:** Structured using the **Groq AI** SDK to utilize ultra-fast hardware acceleration, keeping response latencies down to milliseconds.
+*   **Conversational State Tracking:** Orchestrated through **LangChain** memory modules, allowing Mango AI to retain contextual history and track reference threads naturally across multi-turn dialogues.
+*   **Production-Grade Dependency Management:** Built and managed utilizing modern Python tooling (`uv` / `pyproject.toml`) to ensure clean environment separation, deterministic lockfiles, and zero library friction.
+*   **Robust Input Exception Safety:** Engineered with explicit structural exception-handling blocks to intercept unexpected network issues or invalid terminal inputs gracefully without breaking the persistent runtime loop.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+*   **Language:** Python 3.12+
+*   **Orchestration:** LangChain Core
+*   **Inference Engine:** Groq API
+*   **Environment & Package Management:** `uv` by Astral
+
+---
+
+## 📦 Local Setup & Installation
+
+Ensure you have your environment manager configured, then follow these steps:
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/yhassan01111/Mango-AI.git](https://github.com/yhassan01111/Mango-AI.git)
+cd "Mango-AI/V1/MANGO AI V1"
