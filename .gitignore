@@ -1,0 +1,10 @@
+# --- SECURITY ---
+.env
+*.env
+secret_key.txt
+
+# --- Python ---
+.venv/
+venv/
+__pycache__/
+*.pyc
