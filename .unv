@@ -1,0 +1,3 @@
+# --- API CONFIGURATION ---
+# This is a comment explaining your secret key
+GROQ_API_KEY=gsk_your_actual_key_here
