@@ -30,7 +30,7 @@ Ensure you have your environment manager configured, then follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yhassan01111/Mango-AI.git](https://github.com/yhassan01111/Mango-AI.git)
+git clone https://github.com/yhassan01111/Mango-AI.git
 cd "Mango-AI/V1/MANGO AI V1"
 ```
 
