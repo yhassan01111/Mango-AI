@@ -35,14 +35,20 @@ cd Mango-AI/V1
 ```
 
 ### 2. Add langchain-groq
-Copy this command ``` uv add langchain-groq ``` in your cloned repository, using windows powershell.
+Copy this command ```bash
+uv add langchain-groq 
+```
+in your cloned repository, using windows powershell.
 
 ### 3. Add your api key
 Head to https://console.groq.com/keys 
 Get an API-key then paste it in the place it was assigned for in the ```.env``` file.
 
 ### 4. Running the program
-run ```uv run main.py``` then the app should run perfectly!
+run 
+```bash
+uv run main.py``` 
+then the app should run perfectly!
 
 ## 📢 Project Status & Updates
 
