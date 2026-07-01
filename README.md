@@ -46,7 +46,7 @@ Head to https://console.groq.com/keys
 Get an API-key then paste it in the place it was assigned for in the ```.env``` file.
 
 ### 4. Running the program
-run 
+Run 
 ```bash
 uv run main.py
 ``` 
