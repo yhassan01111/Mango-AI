@@ -47,4 +47,8 @@ run ```uv run main.py``` then the app should run perfectly!
 ### 🛠️ Help and support
 
 🥭Mango AI (V1) — Bug Report & Support Form : https://forms.gle/DrKsJn4uBDbs8Grp6
-``` A tutorial Youtube Video will soon be provided!```
+
+### Note!
+```A tutorial Youtube Video will soon be provided!
+(This is a apha version, taking your feedback is a must!)
+```
