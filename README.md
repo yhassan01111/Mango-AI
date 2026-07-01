@@ -44,8 +44,6 @@ Get an API-key then paste it in the place it was assigned for in the ```.env``` 
 ### 4. Running the program
 run ```uv run main.py``` then the app should run perfectly!
 
-### 🛠️ Help and support
-
 ## 📢 Project Status & Updates
 
 > 🧪 **Current Build: Alpha V1**
