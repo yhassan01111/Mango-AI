@@ -1,4 +1,4 @@
-# 🥭 Mango AI (V1) — Lightweight Terminal AI Assistant
+# 🥭 Mango AI — Lightweight Terminal AI Assistant
 
 A fast, interactive, and terminal-based AI assistant built to handle fluid conversations without the bulk of a heavy web interface. Mango AI leverages advanced LLM orchestration and high-speed inference to bring a smart, context-aware AI companion straight into your command line.
 
