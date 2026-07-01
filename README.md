@@ -35,7 +35,8 @@ cd Mango-AI/V1
 ```
 
 ### 2. Add langchain-groq
-Copy this command ```bash
+Copy this command 
+```bash
 uv add langchain-groq 
 ```
 in your cloned repository, using windows powershell.
