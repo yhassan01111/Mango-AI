@@ -47,7 +47,8 @@ Get an API-key then paste it in the place it was assigned for in the ```.env``` 
 ### 4. Running the program
 run 
 ```bash
-uv run main.py``` 
+uv run main.py
+``` 
 then the app should run perfectly!
 
 ## 📢 Project Status & Updates
