@@ -46,9 +46,13 @@ run ```uv run main.py``` then the app should run perfectly!
 
 ### 🛠️ Help and support
 
-🥭Mango AI (V1) — Bug Report & Support Form : https://forms.gle/DrKsJn4uBDbs8Grp6
+## 📢 Project Status & Updates
 
-### Note!
-```A tutorial Youtube Video will soon be provided!
-(This is a apha version, taking your feedback is a must!)
-```
+> 🧪 **Current Build: Alpha V1**
+> This project is currently in its active **Alpha V1** release phase. The core architecture, local conversation tracking, and exception handlers are fully operational, but optimization tweaks are ongoing. 
+
+> 🎥 **Tutorial Video Coming Soon!**
+> A comprehensive, step-by-step video guide walking through local setup, environment installation using `uv`, and API configuration will be uploaded directly to this repository shortly. Stay tuned!
+
+> 🐛 **Found a Bug?**
+> If you encounter any installation errors or runtime crashes, please report them directly via our [Mango AI Support & Bug Report Form)[https://forms.gle/DrKsJn4uBDbs8Grp6] 
