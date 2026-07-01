@@ -32,3 +32,12 @@ Ensure you have your environment manager configured, then follow these steps:
 ```bash
 git clone [https://github.com/yhassan01111/Mango-AI.git](https://github.com/yhassan01111/Mango-AI.git)
 cd "Mango-AI/V1/MANGO AI V1"
+```
+
+### 2. Add langchain-groq
+``` uv add langchain-groq ```
+
+
+### 3. Add your api key
+Head to https://console.groq.com/keys 
+Get an API-key then paste it in the place it was assigned for in the ```.env``` file
